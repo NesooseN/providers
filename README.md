@@ -9,6 +9,7 @@ You can leave comments on your experiences with the providers or ask questions i
 
 | Logo          | Languages     | Free plan? | description   |
 | ------------- | ------------- | -- |------------- |
+| ![](https://github.com/nextcloud/providers/raw/master/logos/cloudamo.png) | :de: :fr: :us: :sg:| ✔️ | [www.cloudamo.com](https://www.cloudamo.com) Nextcloud solutions from home to business solutions, from 1GB to 100TB of space, SSL, support, fully optimized and secure. |
 | ![](https://github.com/nextcloud/providers/raw/master/logos/www.cloudu.de.png) | :de: :gb: :us: | ❌ | [www.cloudu.de](https://www.cloudu.de) Since 2013 we offer German-hosted cloud storage with daily external server backup for premium security. With german privacy protection. |
 | ![](https://github.com/nextcloud/providers/raw/master/logos/hkn.jpg) | :de: | ❌ | [HKN GmbH](https://www.hkn.de/nextcloud-server.php) We are a specialist for fully managed Nextcloud-Servers hosted in Germany with german privacy protection. |
 |  ![](https://raw.githubusercontent.com/nextcloud/providers/master/logos/thegoodcloud.png) | 🇦🇹 :uk: | ✔️ | [thegood.cloud](https://thegood.cloud) Store, sync and share without compromising your privacy! Online office with Collabora optional. Hosted on our own hardware in Amsterdam. |
